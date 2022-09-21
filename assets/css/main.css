@@ -180,7 +180,7 @@ body {
 }
 
 body, input, select, textarea {
-  font-family: Proxima Nova, serif;
+  font-family: "Proxima Nova", serif;
   font-size: 17pt;
   font-weight: 300;
   line-height: 1.65;
