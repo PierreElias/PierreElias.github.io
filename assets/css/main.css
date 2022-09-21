@@ -82,6 +82,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
   line-height: 1;
+  zoom: 0.85;
 }
 
 ol, ul {
