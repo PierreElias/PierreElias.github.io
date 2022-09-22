@@ -225,7 +225,7 @@ body {
 }
 
 body, input, select, textarea {
-    font-family: "proxima-nova", ProximaNova2, "Proxima Nova", Metropoli, "Proxima Nova Thin", proxima_nova_ltthin, Metropolis, sans-serif, Monsterrat;
+    font-family:  "proxima-nova", ProximaNova2, "Helvetica Neue", "Proxima Nova", Metropoli, "Proxima Nova Thin", proxima_nova_ltthin, Metropolis, sans-serif, Monsterrat;
     font-size: 17pt;
     font-weight: 300;
     line-height: 1.65;
