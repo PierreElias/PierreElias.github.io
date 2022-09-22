@@ -1,5 +1,7 @@
 @import url(fontawesome-all.min.css);
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
+/*@import 'https://fonts.googleapis.com/css2?family=Proxima+Nova';*/
+@import 'https://fonts.googleapis.com/css2?family=Montserrat';
 
 /*
 	Stellar by HTML5 UP
@@ -181,7 +183,7 @@ body {
 }
 
 body, input, select, textarea {
-  font-family: "Proxima Nova", "Proxima Nova Thin", proxima_nova_ltthin, serif;
+  font-family: "Proxima Nova", "Proxima Nova Thin", proxima_nova_ltthin, sans-serif, Monsterrat;
   font-size: 17pt;
   font-weight: 300;
   line-height: 1.65;
