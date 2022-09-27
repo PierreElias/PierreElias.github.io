@@ -2977,7 +2977,7 @@ table.alt tbody tr td {
     -ms-justify-content: center;
     justify-content: center;
     width: calc(100% + 2em);
-    margin: 0 0 0em -2em;
+    margin: 0 0 0.5em -2em;
     padding: 0;
     list-style: none;
 }
