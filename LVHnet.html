@@ -43,41 +43,42 @@
     <section id="content" class="main">
       <!-- <span class="image main"><img src="LVHnet/Splash.jpg" alt=""/></span> -->
       <header class="major">
-        <h1>CheXchoNet: A Large Chest Radiograph Dataset with Gold Standard Echocardiography Annotations</h1>
+        <h2>CheXchoNet: A Chest Radiograph Dataset with Gold Standard Echocardiography Labels</h2>
 
-	<h2><b>What is CheXchoNet?</b></h2>
-	<h3>CheXchoNet is a large dataset of chest X-rays paired with gold standard disease annotations derived from echocardiograms on the same patients. The dataset contains 71,589 total chest X-rays conducted on 24,689 unique patients. </h3>
+	<h3><b>What is CheXchoNet?</b></h3>
+	<h4>CheXchoNet is a large dataset of chest X-rays paired with gold standard disease annotations derived from echocardiograms on the same patients. The dataset contains 71,589 total chest X-rays conducted on 24,689 unique patients. </h4>
 
-	<h2><b>Why is CheXchoNet different from other datasets?</b></h2>
-		    
+	<br>
 
-	<h3>	    
+	<h3><b>Why is CheXchoNet different from other datasets?</b></h3>
+
+	<h4>	    
 	  Many large datasets containing chest X-rays (e.g., CheXpert, ChestX-ray14) have been made publicly available and have been instrumental in the development of improved machine learning methods to diagnose pathologies identified by radiologists in regular clinical practice. These datasets take the approach of extracting diagnostic assessments from radiology reports and constructing supervised models to match human expert performance on various diagnostic tasks.
-	  <br><br>
+	  <br>
 	  With CheXchoNet, we propose an alternate paradigm which goes beyond replicating human-level performance: pair an existing diagnostic test with labels from a more accurate higher, fidelity diagnostic test. We pair chest X-rays with gold standard annotations of structural heart disease derived from echocardiograms conducted on the same patients. In doing so, we define a <b>new task</b>: the diagnosis of cardiac structural abnormalities related to heart failure using only a chest X-ray. If accurate models are built for this task, there is potential for chest X-rays to be used as part of a screening tool for structural heart disease, leading to <b>earlier detection and improved outcomes </b>. </h3>
 	<span class="image story"><img src="LVHnet/roc_paradigm.png" alt="" /></span>
 
       </header>
-      
-      <h2><b>How can I access the data?</b></h2>
-      The dataset will be hosted through <a href = "https://physionet.org/" style="color:#0000EE;"> PhysioNet</a>. Stay tuned for more details in the coming weeks!
+
+      <h3><b>How can I access the data?</b></h3>
+      The dataset is being hosted on <a href = "https://doi.org/10.13026/kp08-ws25" style="color:#0000EE;"> PhysioNet</a>. Please see the link for more detailed information about the data and how to access it.
+
       <br><br>
 
-      <h2><b>Is there an associated publication?</b></h2>
-      We are excited to say that there is a publication and it forthcoming later this month. Stay tuned!
+      <h3><b>Is there an associated publication?</b></h3>
+      We conducted a study using this data to detect cardiac structural abnormalities using deep learning models. We recently published this work in the European Heart Journal. Please see the <a href = "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad782" style="color:#0000EE;">study</a> for additional details. 
 
       <br><br>      
 
-      <h2><b>Is code available?</b></h2>
+      <!-- <h2><b>Is code available?</b></h2>
 
       A public repository will be available as soon as the data is officially released. This repository will demonstrate how to use the public dataset to process the data and build models. Stay tuned...
 
-      <br><br>
+      <br><br> -->
 
-      <h2><b> Please reach out or follow us for live updates on the data release!<b> <br>
+      <h3><b> Please reach out or follow us for more updates!<b> <br></h3>
 	      <b>Email:<b> <a href = "mailto: sab2323@cumc.columbia.edu" style="color:#0000EE;">sab2323@cumc.columbia.edu</a> <br>
 	      <b>Twitter:<b> <a href="https://twitter.com/sabhave"  style="color:#0000EE;">@sabhave</a>, <a href="https://twitter.com/PierreEliasMD",  style="color:#0000EE;">@PierreEliasMD</a>
-	      </h2>
       
       
 
