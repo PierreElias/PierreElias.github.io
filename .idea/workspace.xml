@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e0bee8d-02d1-4c4a-a6fd-9c76a8527754" name="Changes" comment="haggerty bio">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bio_Headshot_Front.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Bio_Headshot_Front.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CADnet.html" beforeDir="false" afterPath="$PROJECT_DIR$/CADnet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CADnet/Graph.png" beforeDir="false" afterPath="$PROJECT_DIR$/CADnet/Graph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CADnet/Nuc_Scan.png" beforeDir="false" afterPath="$PROJECT_DIR$/CADnet/Nuc_Scan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CADnet/Performance_Figure.png" beforeDir="false" afterPath="$PROJECT_DIR$/CADnet/Performance_Figure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COVID_1200.html" beforeDir="false" afterPath="$PROJECT_DIR$/COVID_1200.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COVID_2500.html" beforeDir="false" afterPath="$PROJECT_DIR$/COVID_2500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COVID_SANKEY.html" beforeDir="false" afterPath="$PROJECT_DIR$/COVID_SANKEY.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COVID_Sankey.png" beforeDir="false" afterPath="$PROJECT_DIR$/COVID_Sankey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoNet_Dynamic.html" beforeDir="false" afterPath="$PROJECT_DIR$/EchoNet_Dynamic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elias_Bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Elias_Bio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Haggerty_Bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Haggerty_Bio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntroECG.html" beforeDir="false" afterPath="$PROJECT_DIR$/IntroECG.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntroECG/Intro_ECG_ValveNet_Model_Full.png" beforeDir="false" afterPath="$PROJECT_DIR$/IntroECG/Intro_ECG_ValveNet_Model_Full.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LVHnet.html" beforeDir="false" afterPath="$PROJECT_DIR$/LVHnet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LVHnet/ACC_Results.png" beforeDir="false" afterPath="$PROJECT_DIR$/LVHnet/ACC_Results.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LVHnet/Splash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/LVHnet/Splash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LVHnet/refactored_code_continuous_labels_columbia_composite_slvh_dcm.png" beforeDir="false" afterPath="$PROJECT_DIR$/LVHnet/refactored_code_continuous_labels_columbia_composite_slvh_dcm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LVHnet/roc_paradigm.png" beforeDir="false" afterPath="$PROJECT_DIR$/LVHnet/roc_paradigm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE_CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PE_CV.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poterucha_Bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Poterucha_Bio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screen Shot 2020-04-23 at 12.45.32 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screen Shot 2020-04-23 at 12.45.32 PM.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValveNet.html" beforeDir="false" afterPath="$PROJECT_DIR$/ValveNet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValveNet/Inclusion_Criteria.png" beforeDir="false" afterPath="$PROJECT_DIR$/ValveNet/Inclusion_Criteria.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValveNet/Model_Diagram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ValveNet/Model_Diagram.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValveNet/Model_Diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/ValveNet/Model_Diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValveNet/Model_Performance.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ValveNet/Model_Performance.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/images/overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/breakpoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_actions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_features.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_features.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_spotlight.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_spotlight.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_statistics.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_statistics.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/noscript.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Black-demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Black-demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Black-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Black-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Black-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Black-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Black-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Black-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Black-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Black-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Bold-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Condensed Semibold-demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Condensed Semibold-demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Regular-demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Regular-demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Regular-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Regular-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Regular-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Alt Regular-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova ScOsf Thin-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova ScOsf Thin-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova ScOsf Thin-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova ScOsf Thin-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova ScOsf Thin-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova ScOsf Thin-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova ScOsf Thin-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova ScOsf Thin-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Semibold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Semibold-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Semibold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Semibold-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Semibold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Semibold-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Semibold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Semibold-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Thin-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Thin-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Thin-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Thin-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Thin-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Thin-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Thin-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Thin-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Thin-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Mark Simonson - Proxima Nova Thin-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Alt Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Alt Bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Alt Light.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Alt Light.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Alt Thin.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Alt Thin.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Black.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Black.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Extrabold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Extrabold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Thin.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/Proxima Nova Thin.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/ProximaNova-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/ProximaNova-Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fonts.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fonts.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic1.html" beforeDir="false" afterPath="$PROJECT_DIR$/generic1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic2.html" beforeDir="false" afterPath="$PROJECT_DIR$/generic2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic3.html" beforeDir="false" afterPath="$PROJECT_DIR$/generic3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Bio_Headshot_Front.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Bio_Headshot_Front.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Bio_Headshot_Front_square.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Bio_Headshot_Front_square.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CRADLE_logo_complete.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/CRADLE_logo_complete.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Chris_Kelsey.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Chris_Kelsey.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Chris_Kelsey_Headshot.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Chris_Kelsey_Headshot.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Daniel_Rocha.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Daniel_Rocha.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/David_vanMaanen.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/David_vanMaanen.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/David_vanMaanen.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/David_vanMaanen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Haggerty.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Haggerty.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Haggerty_Square.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Haggerty_Square.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Jeffrey_Ruhl_Headshot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Jeffrey_Ruhl_Headshot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Jeffrey_Ruhl_Headshot_square.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Jeffrey_Ruhl_Headshot_square.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Joshua_Finer_Headshot.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Joshua_Finer_Headshot.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Linyuan_Headshot_Long.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Linyuan_Headshot_Long.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Linyuan_Jing.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Linyuan_Jing.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Poterucha Columbia Headshot Square.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Poterucha Columbia Headshot Square.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Poterucha Columbia Headshot.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/images/Poterucha Columbia Headshot.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Ramon_Headshot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Ramon_Headshot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Shreyas_Bhave_Headshot.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Shreyas_Bhave_Headshot.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TripartiteLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/TripartiteLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TripartiteLogo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/TripartiteLogo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Victor_Rodriguez_Headshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Victor_Rodriguez_Headshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dnhartzel_1st_alternate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/dnhartzel_1st_alternate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dnhartzel_headshot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/dnhartzel_headshot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tri_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/tri_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tri_heart_large.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/tri_heart_large.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plotly.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/plotly.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_generic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_generic4.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_generic4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_generic5.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_generic5.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="15fc4aff8429cfbec939bd72fa07b2ae8a74bb1e" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F6FKNosa0Zrn5IGOf60siHVDus" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;0d3836&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pae2/OneDrive - cumc.columbia.edu/WebsiteRepo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/PyCharm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;HTML&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e0bee8d-02d1-4c4a-a6fd-9c76a8527754" name="Changes" comment="" />
+      <created>1663804561564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663804561564</updated>
+      <workItem from="1663804562746" duration="59000" />
+      <workItem from="1663804642285" duration="241000" />
+      <workItem from="1663804895474" duration="133000" />
+      <workItem from="1663805038472" duration="4590000" />
+      <workItem from="1664307179757" duration="7534000" />
+      <workItem from="1664915798561" duration="2554000" />
+      <workItem from="1665171124966" duration="1233000" />
+      <workItem from="1666051256382" duration="522000" />
+    </task>
+    <task id="LOCAL-00001" summary="update proxima">
+      <created>1663804580896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663804580896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update proxima">
+      <created>1663805234877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663805234877</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update proxima">
+      <created>1663807446927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663807446927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update proxima">
+      <created>1663807845855</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663807845855</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update proxima">
+      <created>1663808523891</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663808523891</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update proxima">
+      <created>1663808712221</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663808712221</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new team members added">
+      <created>1664317347519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664317347519</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new team members added">
+      <created>1664317517545</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664317517545</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix margins">
+      <created>1664374402821</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664374402821</updated>
+    </task>
+    <task id="LOCAL-00010" summary="change titles">
+      <created>1664407307672</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664407307672</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new pics">
+      <created>1664833580870</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664833580870</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add ramon">
+      <created>1664915988674</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664915988675</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add ramon">
+      <created>1664916004285</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664916004285</updated>
+    </task>
+    <task id="LOCAL-00014" summary="haggerty bio">
+      <created>1665087439420</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665087439420</updated>
+    </task>
+    <task id="LOCAL-00015" summary="haggerty bio">
+      <created>1665087661590</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665087661590</updated>
+    </task>
+    <task id="LOCAL-00016" summary="haggerty bio">
+      <created>1665171128313</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665171128313</updated>
+    </task>
+    <task id="LOCAL-00017" summary="haggerty bio">
+      <created>1665171304255</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665171304255</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update proxima" />
+    <MESSAGE value="new team members added" />
+    <MESSAGE value="fix margins" />
+    <MESSAGE value="change titles" />
+    <MESSAGE value="new pics" />
+    <MESSAGE value="add ramon" />
+    <MESSAGE value="haggerty bio" />
+    <option name="LAST_COMMIT_MESSAGE" value="haggerty bio" />
+  </component>
+</project>
