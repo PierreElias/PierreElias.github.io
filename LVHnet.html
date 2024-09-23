@@ -41,25 +41,60 @@
 
     <!-- Content -->
     <section id="content" class="main">
-      <span class="image main"><img src="LVHnet/Splash.jpg" alt=""/></span>
+      <!-- <span class="image main"><img src="LVHnet/Splash.jpg" alt=""/></span> -->
       <header class="major">
-        <h2>LVHnet</h2>
-        <h3>Can a chest X-ray help us diagnose heart failure before symptoms develop?</h3>
+        <h2>CheXchoNet: A Chest Radiograph Dataset with Gold Standard Echocardiography Labels</h2>
+
+	<h3><b>What is CheXchoNet?</b></h3>
+	<h4>CheXchoNet is a large dataset of chest X-rays paired with gold standard disease annotations derived from echocardiograms on the same patients. The dataset contains 71,589 total chest X-rays conducted on 24,689 unique patients. </h4>
+
+	<br>
+
+	<h3><b>Why is CheXchoNet different from other datasets?</b></h3>
+
+	<h4>	    
+	  Many large datasets containing chest X-rays (e.g., CheXpert, ChestX-ray14) have been made publicly available and have been instrumental in the development of improved machine learning methods to diagnose pathologies identified by radiologists in regular clinical practice. These datasets take the approach of extracting diagnostic assessments from radiology reports and constructing supervised models to match human expert performance on various diagnostic tasks.
+	  <br>
+	  With CheXchoNet, we propose an alternate paradigm which goes beyond replicating human-level performance: pair an existing diagnostic test with labels from a more accurate higher, fidelity diagnostic test. We pair chest X-rays with gold standard annotations of structural heart disease derived from echocardiograms conducted on the same patients. In doing so, we define a <b>new task</b>: the diagnosis of cardiac structural abnormalities related to heart failure using only a chest X-ray. If accurate models are built for this task, there is potential for chest X-rays to be used as part of a screening tool for structural heart disease, leading to <b>earlier detection and improved outcomes </b>. </h3>
+	<span class="image story"><img src="LVHnet/roc_paradigm.png" alt="" /></span>
+
       </header>
 
-      <p>Heart failure is responsible for 1 in 8 deaths in the United States. Although medical therapy can be highly effective in preventing worsening heart failure and mortality, many patients are diagnosed with advanced disease when treatment is less effective. Increasing the diagnostic accuracy of front-line tests such as chest x-rays in the detection of left ventricular hypertrophy and dilation may help to identify patients with early-stage heart failure before the onset of symptoms.
-      </p>
+      <h3><b>How can I access the data?</b></h3>
+      The dataset is being hosted on <a href = "https://doi.org/10.13026/kp08-ws25" style="color:#0000EE;"> PhysioNet</a>. Please see the link for more detailed information about the data and how to access it.
 
-      <p>Current deep learning methods often use a human interpretation as the definitive label which may limit clinical accuracy. This limitation may be overcome by training models against more advanced and expensive gold standard testing.</p>
+      <br><br>
 
-      <span class="image story"><img src="LVHnet/roc_paradigm.png" alt="" /></span>
+      <h3><b>Is there an associated publication?</b></h3>
+      We conducted a study using this data to detect cardiac structural abnormalities using deep learning models. We recently published this work in the European Heart Journal. Please see the <a href = "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad782" style="color:#0000EE;">study</a> for additional details. 
 
-      <p>In this study, we created a research database of chest x-ray images in patients that had undergone an echocardiogram, the gold-standard test of LV assessment. After image pre-processing, we developed a deep learning model to detect LV hypertrophy (LVH) and dilation (DCM) as diagnosed on echocardiography. If these abnormalities could be detected by chest x-ray, we may be able to detect early stages of heart failure before patients become symptomatic and intervene sooner. </p>
+      <br><br>      
 
-        <span><img src="LVHnet/ACC_Results.png" alt=""/></span>
+      <h3><b>Is code available?</b></h3>
 
-      <p>The next step was to determine if the model could achieve similar or better accuracy in the assessment of these LV abnormalities compared to human radiologists. A total of 15 radiologists were asked to read 300 x-rays and decide of whether a patient had severe LVH or a dilated LV. The deep learning model outperformed 13 of the 15 radiologists in the detection of these states, suggesting that training a model against the gold standard echocardiography may result in improved model performance over even expert human interpreters. Clinical deployment of this model may allow for improved patient selection for further cardiac testing. </p>
-      <span class="image main"><img src="LVHnet/refactored_code_continuous_labels_columbia_composite_slvh_dcm.png" alt=""/></span>
+      A public <a href = "https://github.com/sbhave77/CheXchoNet" style="color:#0000EE;"> repository </a> is available, which contains a jupyter notebook to explore the data and scripts for training/evaluating models. 
+
+      <br><br>
+
+      <h3><b> Please reach out or follow us for more updates!<b> <br></h3>
+	      <b>Email:<b> <a href = "mailto: sab2323@cumc.columbia.edu" style="color:#0000EE;">sab2323@cumc.columbia.edu</a> <br>
+	      <b>Twitter:<b> <a href="https://twitter.com/sabhave"  style="color:#0000EE;">@sabhave</a>, <a href="https://twitter.com/PierreEliasMD",  style="color:#0000EE;">@PierreEliasMD</a>
+      
+      
+
+      <!-- <p>Heart failure is responsible for 1 in 8 deaths in the United States. Although medical therapy can be highly effective in preventing worsening heart failure and mortality, many patients are diagnosed with advanced disease when treatment is less effective. Increasing the diagnostic accuracy of front-line tests such as chest X-rays in the detection of severe left ventricular hypertrophy and dilation may help to identify patients with early-stage heart failure before the onset of symptoms. -->
+      <!-- </p> -->
+
+      <!-- <p>Current deep learning methods often use a human interpretation as the definitive label which may limit clinical accuracy. This limitation may be overcome by training models against more advanced and expensive gold standard testing.</p> -->
+
+
+
+      <!-- <p>In this study, we created a research database of chest x-ray images in patients that had undergone an echocardiogram, the gold-standard test of LV assessment. After image pre-processing, we developed a deep learning model to detect LV hypertrophy (LVH) and dilation (DCM) as diagnosed on echocardiography. If these abnormalities could be detected by chest x-ray, we may be able to detect early stages of heart failure before patients become symptomatic and intervene sooner. </p> -->
+
+      <!--   <span><img src="LVHnet/ACC_Results.png" alt=""/></span> -->
+
+      <!-- <p>The next step was to determine if the model could achieve similar or better accuracy in the assessment of these LV abnormalities compared to human radiologists. A total of 15 radiologists were asked to read 408 x-rays and decide of whether a patient had severe LVH or a dilated LV. The deep learning model outperformed all 15 radiologists in the detection of these states, suggesting that training a model against the gold standard echocardiography may result in improved model performance over even expert human interpreters. Clinical deployment of this model may allow for improved patient selection for further cardiac testing. </p> -->
+      <!-- <span class="image main"><img src="LVHnet/refactored_code_continuous_labels_columbia_composite_slvh_dcm.png" alt=""/></span> -->
 
 
   <ul class="actions special">
