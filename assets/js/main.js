@@ -20,8 +20,12 @@
 			xxsmall:  [ null,      '360px'  ]
 		});
 
-	// Remove preload state immediately
-	$body.removeClass('is-preload');
+	// Play initial animations on page load.
+		$window.on('load', function() {
+			window.setTimeout(function() {
+				$body.removeClass('is-preload');
+			}, 100);
+		});
 
 	// Nav.
 		var $nav = $('#nav');
@@ -115,5 +119,8 @@
 		$('.scrolly').scrolly({
 			speed: 1000
 		});
+
+	// Remove preload state immediately
+	$body.removeClass('is-preload');
 
 })(jQuery);
