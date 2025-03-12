@@ -2344,7 +2344,7 @@ input[type="radio"]:focus + label:before {
 }
 
 .icon:before {
-    /*line-height: solid;*/
+    line-height: solid;
 }
 
 .icon.solid:before {
