@@ -41,39 +41,59 @@
 
     <!-- Content -->
     <section id="content" class="main">
-      <!--      <span class="image main"><img src="images/pic04.jpg" alt=""/></span>-->
+      <span class="image main"><img src="images/ecg_tracings.png" alt=""/></span>
       <header class="major">
-        <h2>ValveNet</h2>
-        <h3>Identifying valvular heart disease through deep learning of electrocaridograms</h3>
+        <h2>EchoNext</h2>
+        <h3>A Foundational AI-Based Screening Test for Cardiovascular Diseases</h3>
       </header>
 
-      <p>The routine 12-lead electrocardiogram (ECG) is ubiquitous, inexpensive, and highly useful in the assessment of
-        heart disease. However, it is limited in its sensitivity and specificity in the detection of serious structural
-        heart diseases. In this project, we theorized that deep
-        learning analysis of the ECG could enable the detection of patients with three valvular diseases – aortic
-        stenosis, aortic regurgitation, and mitral regurgitation – through improved analysis of this feature-rich
-        data.</p>
+      <p>Early detection of structural heart disease (SHD), including cardiomyopathies and valvular disease, is a foundational goal of cardiology but cost and availability of 
+        gold-standard tools like echocardiography prohibit widespread screening. We present EchoNext, 
+        the first AI model to detect all causes of SHD, developed using 1,245,273 ECG-echocardiogram pairs from 8 hospitals and 190 clinics.</p>
 
-      <p>We first developed a research database that was comprised of all patients at our medical center who had
-        undergone an ECG and an echocardiogram. This yielded 77,163 patients who had undergone an ECG within a year
-        prior to an echocardiogram. This data was split into train, validation, and test sets.</p>
-
-      <span class="image story"><img src="ValveNet/Inclusion_Criteria.png" alt=""/></span>
-
-      <p> A convolutional neural network was trained using the raw ECG waveform (30,000 data points per ECG) using
-        multiple ResNet blocks with fusion of tabular data (like age) to detect patients with moderate or severe aortic
-        stenosis, aortic regurgitation, mitral regurgitation, and a combination of any of the three valvular lesions.
-        Multiple model architectures were trialed, with the final model providing a high level of accuracy in the
-        validation set at a low computational cost.</p>
-
-      <span class="image story"><img src="ValveNet/Model_Diagram.png" alt=""/></span>
-
-      <p>We found that the model could accurately detect each of the three valvular lesions alone and in combination. We
-        are currently deploying this model in a prospective clinical study to identify patients with undiagnosed
-        valvular heart disease at Columbia University Irving Medical Center.</p>
-      <span class="image story"><img src="ValveNet/Model_Performance.jpg" alt=""/></span>
-
-      For more details, see our accompanying paper,
+      <!-- <p> EchoNext accurately detected SHD in internal test data (area under receiver operating curve [AUROC]=85%) and three additional health systems not included in training (AUROC=78-80%). Model performance was stable across clinical contexts, race, and ethnicity. </p> -->
+      <h3>Key Features & Performance</h3>
+      <ul>
+          <li><strong>Broad Detection Capability:</strong> Identifies a range of SHDs, including cardiomyopathies and valvular diseases not previously detectable on ECG.</li>
+          <li><strong>High Accuracy:</strong> Achieved an area under the receiver operating characteristic curve (AUROC) of 85% in internal tests and 78-80% in external validation across multiple health systems.</li>
+          <li><strong>Comparison to Cardiologists:</strong> In a study involving 3,200 ECG interpretations by 13 attending cardiologists, EchoNext demonstrated higher accuracy (77%) compared to cardiologists at baseline (64%) and even when provided AI assistance (69%).</li>
+          <li><strong>Generalizability:</strong> Consistent performance across diverse patient demographics, clinical contexts, and numerous hospitals.</li>
+      
+      
+      <div style="display: flex; justify-content: center; gap: 20px;">
+        <span class="image story" style="flex: 0 1 auto; max-width: 55%;">
+            <img src="EchoNext/EN_validation.jpg" alt="" style="width: auto; height: auto;"/>
+        </span>
+        <span class="image story" style="flex: 0 1 auto; max-width: 45%;">
+            <img src="EchoNext/EN_doc_performance.png" alt="" style="width: 80%; height: auto;"/>
+        </span>
+      </div>
+      <p></p>
+      <h3>Clinical Validation & Impact</h3>
+      <ul>
+          <li><strong>Prospective Trial Success:</strong> In a 100-patient pilot study, 73% of high-risk patients identified by EchoNext were newly diagnosed with SHD.</li>
+          <li><strong>Silent Deployment Findings:</strong> In a real-world setting, EchoNext flagged 3,444 high-risk patients, 45% of whom did not receive follow-up echocardiography, highlighting gaps in clinical care.</li>
+          <!-- <li><strong>Scalability & Open Science:</strong> EchoNext’s model weights, codebase, and 100,000 ECGs with echocardiographic labels have been publicly released to accelerate AI research in cardiology.</li> -->
+          <!-- <li><strong>Future Prospects:</strong> </li> -->
+   
+      
+     
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <span class="image story" style="flex: 0 1 auto; max-width: 50%;">
+      <img src="EchoNext/Prospective_Obs.png" alt="" style="width: auto; height: auto;"/>
+    </span>
+    <span class="image story" style="flex: 0 1 auto; max-width: 50%;">
+        <img src="EchoNext/Prospective_Trial.png" alt="" style="width: auto; height: auto;"/>
+    </span>
+  </div>
+  <p>
+  <h3>The Country's Largest Cardiovascular AI Trial</h3>
+      <p>These findings have led to the initiation of CACTUS, the largest cardiovascular AI randomized controlled trial in the U.S., set to evaluate the impact of AI-based ECG screening on SHD diagnosis among 54,000 patients across eight emergency departments in 2025.
+      <span class="image story" style="flex: 0 1 auto; max-width: auto;">
+        <img src="EchoNext/CACTUS_Trial.png" alt="" style="width: auto; height: auto;"/>
+    </span>
+  
+      <!-- For more details, see our accompanying paper,
       <blockquote>
         <p><a
           href="https://www.jacc.org/doi/10.1016/j.jacc.2022.05.029?utm_medium=email_newsletter&amp;utm_source=jacc&amp;utm_campaign=toc&amp;utm_content=20220801#mmc1"><strong>Deep
@@ -83,7 +103,7 @@
       </blockquote>
       <ul class="actions special">
         <li><a href="index.html#first" class="button">Return Home</a></li>
-      </ul>
+      </ul> -->
     </section>
 
   </div>
