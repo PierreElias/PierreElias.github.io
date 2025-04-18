@@ -23,7 +23,7 @@
     <a href="index.html">
     <img style= "padding-top: 0px; padding-bottom: 0px" src="images/TripartiteLogo2.png" alt="" width=600px>
     <h1 style="letter-spacing: 7px; margin-bottom: 10px; font-size:5em; text-shadow:1px 1px 10px #fff, 3px 3px 3px #ccc">CRADLE</h1>
-    <p style="margin-bottom: 10px; font-size:1em">The Cardiovascular and Radiologic Deep Learning Environment</p>
+    <p style="margin-bottom: 10px; font-size:1em">The Center for Cardiovascular and Radiologic Deep Learning</p>
     </a>
   </header>
   <!-- Nav -->
@@ -39,51 +39,68 @@
   <!-- Main -->
   <div id="main">
 
-    <!-- Content -->
-    <section id="content" class="main">
-      <!--      <span class="image main"><img src="images/pic04.jpg" alt=""/></span>-->
-      <header class="major">
-        <h2>ValveNet</h2>
-        <h3>AI-Based Interpretation of Echos Matches Quality of Academic Labs</h3>
-      </header>
+       <!-- Content -->
+       <section id="content" class="main">
+        <header class="major">
+          <h2>DELINEATE </h2>
+          <h3>Deep Learning for Automated Assessment of Valve Disease from Echocardiography</h3>
+        </header>
+    
+        <p>Valvular regurgitation—particularly mitral (MR), aortic (AR), and tricuspid (TR)—is a common and undertreated contributor to heart failure and mortality. Manual assessment using color Doppler echocardiography remains challenging, subjective, and time-intensive. <strong>Delineate Regurgitation</strong> introduces a deep learning system for automated classification of valvular regurgitation severity, as well as a novel prognostic tool for predicting progression of MR over time.</p>
+    
+        <h3>Key Features &amp; Performance</h3>
+        <ul>
+          <li><strong>Multi-Valve Assessment:</strong> Accurately classifies severity of AR, MR, and TR using color Doppler videos from complete transthoracic echocardiograms (TTEs).</li>
+          <li><strong>Study-Level Integration:</strong> Aggregates predictions from multiple views and videos per exam, outperforming single-view models.</li>
+          <li><strong>High Agreement with Cardiologists:</strong> Achieved weighted Kappa of 0.76–0.81 across valves in external test sets.</li>
+          <li><strong>MR Progression Risk Model:</strong> Identifies patients most likely to progress to severe MR with a hazard ratio of 4.1, independent of known clinical risk factors.</li>
+        </ul>
+        <h3>Peer-Reviewed Publications</h3>
+        <ul>
+          <div class="publication" style="margin-bottom: 1.5em;">
+            <a href="https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.068996" target="_blank" style="text-decoration: none; color: #4714ce; font-weight: 500; border-bottom: 1px solid #4714ce;">
+              DELINEATE-MR: End-to-end model for MR severity classification
+            </a>
+            <p style="margin: 0.5em 0; color: #666;">
+              Published in <em>Circulation</em>. <br>
+              <br>✔ 61,689 TTEs from a single health system  
+              <br>✔ Exact accuracy 82% internal, 79% external  
+              <br>✔ AUROC = 0.98 for detecting ≥moderate MR  
+              <br>✔ 6-step ordinal agreement: 99% within ±1 step
+            </p>
+            <span class="image story" style="flex: 0 1 auto; max-width: 100%; display: block; margin: 1em auto;">
+              <img src="DELINEATE/risk_figure.jpg" alt="Delineate-MR Progression Figure" style="width: 100%; height: auto;">
+            </span>
+          </div>
+          
+          <div class="publication" style="margin-bottom: 1.5em;">
+            <a href="https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaf248/8097864" target="_blank" style="text-decoration: none; color: #4714ce; font-weight: 500; border-bottom: 1px solid #4714ce;">
+              DELINEATE-Regurgitation: Multi-valve classification and MR progression risk stratification
+            </a>
+            <p style="margin: 0.5em 0; color: #666;">
+              Published in <em>European Heart Journal</em>. <br>
+              <br>✔ 71,660 TTEs and over 1.2 million Doppler videos  
+              <br>✔ External weighted κ: AR 0.76, MR 0.72, TR 0.64  
+              <br>✔ Multiview > single view in accuracy  
+              <br>✔ Prognostic MR risk score: HR = 4.1 (CI 2.5–6.6)
+            </p>
+          </div>
+          
+          </li>
+          <span class="image story" style="flex: 0 1 auto; max-width: 100%; display: block; margin: 1em auto;">
+            <img src="DELINEATE/ehj_central_figure.jpeg" alt="Delineate-Regurgitation Figure" style="width: 100%; height: auto;">
+          </span>
+        </ul>
+    
+        <h3>Clinical Vision</h3>
+        <p>Delineate Regurgitation has the potential to standardize regurgitation assessment at scale and prioritize patients for follow-up. Future directions include silent deployment across health systems, integration with echocardiography viewers, and use as a decision-support tool for AI-enhanced cardiovascular care.</p>
+    
+        <div style="display: flex; justify-content: center; gap: 20px;">
+  
 
-      <p>The routine 12-lead electrocardiogram (ECG) is ubiquitous, inexpensive, and highly useful in the assessment of
-        heart disease. However, it is limited in its sensitivity and specificity in the detection of serious structural
-        heart diseases. In this project, we theorized that deep
-        learning analysis of the ECG could enable the detection of patients with three valvular diseases – aortic
-        stenosis, aortic regurgitation, and mitral regurgitation – through improved analysis of this feature-rich
-        data.</p>
-
-      <p>We first developed a research database that was comprised of all patients at our medical center who had
-        undergone an ECG and an echocardiogram. This yielded 77,163 patients who had undergone an ECG within a year
-        prior to an echocardiogram. This data was split into train, validation, and test sets.</p>
-
-      <span class="image story"><img src="ValveNet/Inclusion_Criteria.png" alt=""/></span>
-
-      <p> A convolutional neural network was trained using the raw ECG waveform (30,000 data points per ECG) using
-        multiple ResNet blocks with fusion of tabular data (like age) to detect patients with moderate or severe aortic
-        stenosis, aortic regurgitation, mitral regurgitation, and a combination of any of the three valvular lesions.
-        Multiple model architectures were trialed, with the final model providing a high level of accuracy in the
-        validation set at a low computational cost.</p>
-
-      <span class="image story"><img src="ValveNet/Model_Diagram.png" alt=""/></span>
-
-      <p>We found that the model could accurately detect each of the three valvular lesions alone and in combination. We
-        are currently deploying this model in a prospective clinical study to identify patients with undiagnosed
-        valvular heart disease at Columbia University Irving Medical Center.</p>
-      <span class="image story"><img src="ValveNet/Model_Performance.jpg" alt=""/></span>
-
-      For more details, see our accompanying paper,
-      <blockquote>
-        <p><a
-          href="https://www.jacc.org/doi/10.1016/j.jacc.2022.05.029?utm_medium=email_newsletter&amp;utm_source=jacc&amp;utm_campaign=toc&amp;utm_content=20220801#mmc1"><strong>Deep
-          Learning Electrocardiographic Analysis for Detection of Left-Sided Valvular Heart Disease</strong></a><br/>
-          Pierre Elias & Timothy J. Poterucha, et al. <br>Journal of the American College of Cardiology, August 1, 2022.
-        </p>
-      </blockquote>
-      <ul class="actions special">
-        <li><a href="index.html#first" class="button">Return Home</a></li>
-      </ul>
+        </div>
+  
+    
     </section>
 
   </div>
